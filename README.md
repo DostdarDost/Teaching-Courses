@@ -2,31 +2,31 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Course Objective](#Course-Objective)
-- [Learning Outcome](#Learning-outcome)
-- [Features](#features)
-  - [Feature 1](#feature-1)
-  - [Feature 2](#feature-2)
-- [Contributing](#contributing)
+- [Course Objectives](#Course-Objectives)
+- [Learning Outcome](#Learning-outcomes)
+- [Week 1](#Week-1)
+  - [Lecture 1](#Lecture-1)
+  - [Lecture 2](#Lecture-2)
+- [Recommanded Books](#Recommanded-Books)
 - [License](#license)
 
 ## Introduction
 Brief project introduction.
 
-## Course Objective
+## Course Objectives
 Instructions for installing the project.
 
-## Learning Outcome
+## Learning Outcomes
 Guidelines on how to use the project.
 
-## Features
-### Feature 1
+## WeeK 1
+### Lecture 1
 Details about Feature 1.
 
-### Feature 2
+### Lecture 2
 Details about Feature 2.
 
-## Contributing
+## Recommanded Books
 Information on how to contribute to the project.
 
 ## License
