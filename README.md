@@ -1,9 +1,9 @@
-# Course Outline
+# MATH-301
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Course Objective](#Course Objective)
-- [Learning Outcome](# Learning outcome)
+- [Course Objective](#Course-Objective)
+- [Learning Outcome](#Learning-outcome)
 - [Features](#features)
   - [Feature 1](#feature-1)
   - [Feature 2](#feature-2)
