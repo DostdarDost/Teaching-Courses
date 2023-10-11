@@ -6,6 +6,7 @@
 - [Learning Outcomes](#Learning-outcomes)
 - [Week 01](#Week-01)
   - [Lecture 01](#Lecture-01)
+  - [Quiz 1](#Quiz-1)https://forms.gle/Gmwbk9Pso2X9Eov36
   - [Lecture 02](#Lecture-02)
 - [Week 02](#Week-02)
   - [Lecture 01](#Lecture-01)
