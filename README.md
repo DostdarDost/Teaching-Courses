@@ -6,8 +6,11 @@
 - [Learning Outcomes](#Learning-outcomes)
 - [Week 01](#Week-01)
   - [Lecture 01](#Lecture-01)
-  - [Quiz 1](#Quiz-1)https://forms.gle/Gmwbk9Pso2X9Eov36
+  - [Quiz 1](#Quiz-1)
+    [https://forms.gle/JHecSMBfTuPY6jLj6](https://forms.gle/JHecSMBfTuPY6jLj6)
   - [Lecture 02](#Lecture-02)
+  - [Quiz 2](#Quiz-2)
+    [ https://forms.gle/Gmwbk9Pso2X9Eov36](https://forms.gle/Gmwbk9Pso2X9Eov36)
 - [Week 02](#Week-02)
   - [Lecture 01](#Lecture-01)
   - [Lecture 02](#Lecture-02)
