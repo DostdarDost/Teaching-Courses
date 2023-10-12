@@ -15,6 +15,9 @@
     
 - [Week 02](#Week-02)
   - [Lecture 01](#Lecture-01)
+    
+   -[Quiz 3](#Quiz-3)
+  
   - [Lecture 02](#Lecture-02)
 - [Recommanded Books](#Recommanded-Books)
 ## Introduction
@@ -37,6 +40,8 @@ On completion of this course, students will be able to understand the basic math
 ## Week 02
 ### Lecture 01
 [Introduction to Set](Introduction-to-Set)
+
+ -[https://forms.gle/ZjBPZLqLQ2woN5268](https://forms.gle/ZjBPZLqLQ2woN5268)
 ### Lecture 02
 [Operation on Sets](Operation-on-Sets)
 
