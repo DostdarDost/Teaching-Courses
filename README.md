@@ -53,7 +53,9 @@ On completion of this course, students will be able to understand the basic math
 ## License
 Licensing information for the project.
                     
-# Set Topology
+# Analytical dynamics
 
-## Table of Contents
+## Lecture_01
+[Lecture_01.pdf](https://github.com/DostdarDost/Teaching-Courses/files/14533232/Lecture_01.pdf)
+
 
