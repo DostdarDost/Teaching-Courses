@@ -60,5 +60,6 @@ Licensing information for the project.
 
 # Electromagnetisum
 ## Lecture_01
-[Lecture_01.pdf](https://github.com/DostdarDost/Teaching-Courses/files/14533833/Lecture_01.pdf)
+[Lecture_01.pdf](https://github.com/DostdarDost/Teaching-Courses/files/14554234/Lecture_01.pdf)
+
 
