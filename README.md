@@ -56,4 +56,6 @@ Licensing information for the project.
 # Set Topology
 
 ## Table of Contents
+### Lectures
+[Lecture_01.pdf](https://github.com/DostdarDost/Teaching-Courses/files/14554995/Lecture_01.pdf)
 
